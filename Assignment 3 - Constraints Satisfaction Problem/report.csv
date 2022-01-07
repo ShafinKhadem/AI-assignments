@@ -1,0 +1,8 @@
+problem file,MAC+SDF,+IBS,MAC+domddeg,+IBS,MAC+brelaz,+IBS
+,cntNode,cntFail,cntNode,cntFail,cntNode,cntFail
+d-10-01,153,23,58,0,58,0
+d-10-06,58,0,58,0,58,0
+d-10-07,58,0,58,0,58,0
+d-10-08,61,2,188,34,207,31
+d-10-09,58,0,63,2,58,0
+d-15-01,26498,7650,61570,18654,58441,16798
