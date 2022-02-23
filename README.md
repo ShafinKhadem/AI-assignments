@@ -1,2 +1,2 @@
 # AI-assignments
-Assignments of CSE-318 Artificial Intelligence Sessional of BUET
+My solutions to the assignments of CSE318 (Artificial Intelligence sessional) of BUET
